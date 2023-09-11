@@ -1,0 +1,35 @@
+.gral {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 2%;
+  width: 25vw;
+  height: 50vh;
+}
+
+.gral :hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 2%;
+  width: 25vw;
+  height: 50vh;
+}
+
+.card :hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.col {
+	padding: 5px;
+}
+
+#treads { 
+
+	margin: 1%;
+    padding: 1%;
+    width: 20vw;
+    height: 25vh;
+}
